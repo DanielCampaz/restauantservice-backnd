@@ -1,0 +1,6 @@
+{
+  "name": "restaurant-logic",
+  "version": 1,
+  "port": 3000,
+  "description": "Project for a restaurant that will allow users to connect and make one or more orders"
+}

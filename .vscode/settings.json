@@ -1,0 +1,14 @@
+{
+    "[javascript]": {
+      "togglequotes.chars": [
+        "\"",
+        "'",
+      ]
+    },
+    "[typescript]": {
+      "togglequotes.chars": [
+        "\"",
+        "'"
+      ]
+    }
+}
