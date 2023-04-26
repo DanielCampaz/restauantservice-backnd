@@ -2,3 +2,5 @@ upload
 !.gitkeep
 
 node_modules
+
+src/utils/mongodb_connect_const.ts

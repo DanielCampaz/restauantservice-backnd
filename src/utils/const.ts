@@ -1,8 +1,4 @@
-enum MONGODB_CONNECT_CONST {
-  USERNAME = 'danielcampaz',
-  PASSWORD = 'MUsgopyz7NkYRIMK',
-  DB = 'restaurant'
-}
+import { MONGODB_CONNECT_CONST } from './mongodb_connect_const'
 
 export const URL_MONGO_CONNECTION = `mongodb+srv://${MONGODB_CONNECT_CONST.USERNAME}:${MONGODB_CONNECT_CONST.PASSWORD}@restaurant.qmywxq1.mongodb.net/${MONGODB_CONNECT_CONST.DB}`
 
